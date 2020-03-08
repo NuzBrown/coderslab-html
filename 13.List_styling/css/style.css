@@ -1,0 +1,21 @@
+
+nav .menuList li {
+	
+	display: inline-block;
+	padding-left: 2em;
+	;
+	
+}
+ li a {
+	
+	text-decoration: none;
+	color: #116493;
+}
+
+
+.squareList{
+	
+	list-style-type: square;
+}
+
+

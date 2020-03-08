@@ -1,0 +1,30 @@
+/* body {
+
+    background-color: blue; -- Changes the body's color to blue
+
+} */
+
+.block {
+
+    width: 100px;
+    height: 50px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+
+}
+
+#first-paragraph{
+
+    color: green;
+}
+
+#second-paragraph{
+
+    color: pink;
+}
+
+p{
+    color: saddlebrown;
+}
+

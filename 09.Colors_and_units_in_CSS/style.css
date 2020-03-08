@@ -1,0 +1,47 @@
+span.object {
+    color: magenta;
+}
+
+span.text{
+
+    color: red;
+}
+
+span.css{
+
+    color: blue;
+}
+
+span.is{
+
+    color: gold;
+}
+
+span.wonderful{
+
+    color: darkslateblue;
+}
+
+#abc{
+
+background-color: blue;
+}
+
+
+.container{
+
+    background-color: aquamarine;
+    width: 200px;
+}
+
+.first{
+
+    background-color: greenyellow;
+    width: 50%;
+}
+
+.second {
+
+    background-color: red;
+    width: 10em;
+}

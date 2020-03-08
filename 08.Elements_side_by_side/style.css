@@ -1,0 +1,35 @@
+.box {
+
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+
+}
+
+.clearfix{
+
+    padding-top: 10px;
+    clear: both;
+
+}
+
+p {
+
+    width: 80px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: red;
+    display: inline;
+}
+
+#first-paragraph{
+
+    float: left;
+}
+
+#second-div{
+
+    float: right;

@@ -1,0 +1,54 @@
+.popup{
+
+    width: 400px;
+    height: 100px;
+    background-color: beige;
+    box-shadow: 1px 1px 5px 8px rgba(0,0,0,0.3);
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    font-weight: 700;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+table td {
+    padding: 15px;
+}
+
+.popup p{
+    padding-bottom: 15px;
+}
+.elipse{
+
+    width: 180px;
+    height: 100px;
+    background-color: lime;
+    border-radius: 50%;
+}
+
+.circle{
+
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+    border-radius: 50%;
+
+}
+
+
+.lime{
+
+    width: 100px;
+    height: 100px;
+    background-color: lime;
+    border-radius: 0 40%;
+
+}
+
+
+
+
